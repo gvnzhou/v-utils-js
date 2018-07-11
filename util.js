@@ -23,4 +23,3 @@ export const getQueryString = (name, url) => {
 	return null
 }
 
-
