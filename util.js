@@ -14,6 +14,6 @@ export const getQueryString = (name) => {
   if (r != null) {
     return unescape(r[2]);
   }
-    return null;
-  }
+  return null;
 }
+
